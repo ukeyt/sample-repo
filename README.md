@@ -1,2 +1,2 @@
 # sample-repo
-edit from main for conflict
+mergetool for conflict
