@@ -1,2 +1,2 @@
 # sample-repo
-mergetool for conflict
+edit from rebase plactice
