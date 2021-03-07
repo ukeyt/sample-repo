@@ -1,2 +1,2 @@
 # sample-repo
-edit from rebase plactice
+practice about stash
