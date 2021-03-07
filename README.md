@@ -1,2 +1,3 @@
 # sample-repo
-practice about stash
+practice about stash(tracked)
+missedit
